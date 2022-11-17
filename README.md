@@ -1,24 +1,7 @@
 # Solitude
-![Logo](https://raw.githubusercontent.com/Astro-gram/solitude-mock-site/ddfa375778d33f9fd3ed4b6dce24e484f70f9c17/public/logo.png)
 
-## Project Download And Run
+This website was developed with Vue JS
 
-```bash
-git clone https://github.com/Astro-gram/solitude-mock-site.git
-```
+URL: https://solitude-site.netlify.app/
 
-### Run locally with Vue.js
-
-```bash
-npm run serve
-```
-
-### Run the built version from the ./build directory
-
-```js
-//Example in Express.js
-
-app.get("/", (req, res) => {
-	res.sendFile("./build/index.html");
-});
-```
+![screencapture-solitude-site-netlify-app-2022-11-18-00_08_27](https://user-images.githubusercontent.com/45972576/202579285-247e740f-823d-4ec5-bd05-c8d7dd12b44d.png)
